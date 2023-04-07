@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, meu nome é Rhuan e sou um desenvolvedor júnior em formação. 
 
-<!--
-**RhuanToneto/RhuanToneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por tecnologia e busco experiência prática para aprimorar minhas habilidades. Estou sempre disposto a aprender e crescer na área, adquirindo conhecimento que me permita me desenvolver como profissional.
 
-Here are some ideas to get you started:
+Atualmente, estou cursando Ciência da Computação e, ao mesmo tempo, investindo meu tempo livre estudando e praticando as linguagens de programação Java, JavaScript, Python e PHP, além de me dedicar ao aprendizado de tecnologias relacionadas ao desenvolvimento web e mobile, como HTML, CSS, Node.js e React Native.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu objetivo a longo prazo é me tornar um desenvolvedor Full-Stack, mas por enquanto estou focando em desenvolvimento Back-End.  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhuanToneto&langs_count=10&layout=compact)](https://github.com/RhuanToneto/github-readme-stats)
+
+<div> 
+<a href="https://www.linkedin.com/in/rhuan-toneto-59b6b1222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>

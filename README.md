@@ -9,5 +9,5 @@ Meu objetivo a longo prazo é me tornar um desenvolvedor Full-Stack, mas por enq
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhuanToneto&langs_count=10&layout=compact)](https://github.com/RhuanToneto/github-readme-stats)
 
 <div> 
-<a href="https://www.linkedin.com/in/rhuan-toneto-59b6b1222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/rhuan-toneto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>

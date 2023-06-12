@@ -1,4 +1,4 @@
-### Olá, meu nome é Rhuan e sou um desenvolvedor júnior em formação.
+### Olá, meu nome é Rhuan e sou um desenvolvedor em formação.
 
 Sou apaixonado por tecnologia e busco experiência prática para aprimorar minhas habilidades. Estou sempre disposto a aprender e crescer na área, adquirindo conhecimento que me permita desenvolver como profissional.
 

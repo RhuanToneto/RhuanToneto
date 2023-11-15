@@ -4,7 +4,7 @@ Sou apaixonado por tecnologia e busco experiência prática para aprimorar minha
 
 Atualmente, estou cursando Ciência da Computação e, ao mesmo tempo, investindo meu tempo livre estudando e praticando as linguagens de programação Java, JavaScript e Python.
 
-Meu objetivo a longo prazo é me tornar um desenvolvedor Back-End, mas estou aberto a explorar outras oportunidades, incluindo QA Tester. Além disso, tenho interesse em explorar as áreas de Inteligência Artificial e Machine Learning, devido às suas crescentes influências no cenário tecnológico atual e futuro.
+Meu objetivo a longo prazo é me tornar um desenvolvedor Back-End, mas estou aberto a considerar outras oportunidades, como a de QA Tester. Além disso, tenho interesse em explorar as áreas de Inteligência Artificial e Machine Learning, devido às suas crescentes influências no cenário tecnológico atual e futuro.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhuanToneto&langs_count=10&layout=compact)](https://github.com/RhuanToneto/github-readme-stats)
 

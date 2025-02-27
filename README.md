@@ -13,26 +13,31 @@
             <b>Analisador de Estatísticas para Rainbow Six Siege</b>
           </a>
         </li>
+        <br>
         <li>
           <a href="https://github.com/RhuanToneto/R6CalculadoraMiraReal">
             <b>Calculadora de Mira Real para Rainbow Six Siege</b>
           </a>
         </li>
+        <br>
         <li>
           <a href="https://github.com/RhuanToneto/SteamGameGuess">
             <b>Adivinhe o Jogo pela Sua Descrição na Steam</b>
           </a>
         </li>
+        <br>
         <li>
           <a href="https://github.com/RhuanToneto/ChatBot">
             <b>Chatbot com Flask, Ollama e Llama</b>
           </a>
         </li>
+        <br>
         <li>
           <a href="https://github.com/RhuanToneto/EnglishPronounce">
             <b>Ferramenta de Treinamento de Pronúncia em Inglês</b>
           </a>
         </li>
+        <br>
         <li>
           <a href="https://github.com/RhuanToneto/PythonProjectPackager">
             <b>Ferramenta para Empacotamento de Projetos Python em Executáveis</b>

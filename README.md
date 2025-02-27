@@ -9,32 +9,34 @@
       <h3>📂 Projetos em Destaque</h3>
       <ul>
         <li>
-          <a href="URL_DO_REPOSITORIO_1">
-            <b>🚀 Nome do Projeto 1</b>
+          <a href="https://github.com/RhuanToneto/R6MapStats">
+            <b>Analisador de Estatísticas para Rainbow Six Siege</b>
           </a>
-          <br/>
-          <i>Breve descrição do projeto e tecnologias utilizadas</i>
         </li>
         <li>
-          <a href="URL_DO_REPOSITORIO_2">
-            <b>💻 Nome do Projeto 2</b>
+          <a href="https://github.com/RhuanToneto/R6CalculadoraMiraReal">
+            <b>Calculadora de Mira Real para Rainbow Six Siege</b>
           </a>
-          <br/>
-          <i>Breve descrição do projeto e tecnologias utilizadas</i>
         </li>
         <li>
-          <a href="URL_DO_REPOSITORIO_3">
-            <b>🌐 Nome do Projeto 3</b>
+          <a href="https://github.com/RhuanToneto/SteamGameGuess">
+            <b>Adivinhe o Jogo pela Sua Descrição na Steam</b>
           </a>
-          <br/>
-          <i>Breve descrição do projeto e tecnologias utilizadas</i>
         </li>
         <li>
-          <a href="URL_DO_REPOSITORIO_4">
-            <b>📱 Nome do Projeto 4</b>
+          <a href="https://github.com/RhuanToneto/ChatBot">
+            <b>Chatbot com Flask, Ollama e Llama</b>
           </a>
-          <br/>
-          <i>Breve descrição do projeto e tecnologias utilizadas</i>
+        </li>
+        <li>
+          <a href="https://github.com/RhuanToneto/EnglishPronounce">
+            <b>Ferramenta de Treinamento de Pronúncia em Inglês</b>
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/RhuanToneto/PythonProjectPackager">
+            <b>Ferramenta para Empacotamento de Projetos Python em Executáveis</b>
+          </a>
         </li>
       </ul>
     </td>

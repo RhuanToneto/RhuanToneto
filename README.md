@@ -9,14 +9,14 @@
       <h3>📂 Projetos em Destaque</h3>
       <ul>
         <li>
-          <a href="https://github.com/RhuanToneto/R6MapStats">
-            <b>Analisador de Estatísticas para Rainbow Six Siege</b>
+          <a href="https://github.com/RhuanToneto/R6CalculadoraMiraReal">
+            <b>Calculadora de Mira Real para Rainbow Six Siege</b>
           </a>
         </li>
         <br>
         <li>
-          <a href="https://github.com/RhuanToneto/R6CalculadoraMiraReal">
-            <b>Calculadora de Mira Real para Rainbow Six Siege</b>
+          <a href="https://github.com/RhuanToneto/R6MapStats">
+            <b>Analisador de Estatísticas para Rainbow Six Siege</b>
           </a>
         </li>
         <br>

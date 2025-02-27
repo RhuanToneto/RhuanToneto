@@ -34,7 +34,7 @@
         <br>
         <li>
           <a href="https://github.com/RhuanToneto/EnglishPronounce">
-            <b>Ferramenta de Treinamento de Pronúncia em Inglês</b>
+            <b>Ferramenta para Treinamento de Pronúncia em Inglês</b>
           </a>
         </li>
         <br>

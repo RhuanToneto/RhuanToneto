@@ -9,6 +9,12 @@
       <h3>📂 Projetos em Destaque</h3>
       <ul>
         <li>
+          <a href="https://github.com/RhuanToneto/FacialEmotionRecognition">
+            <b>Ferramenta de Reconhecimento Facial de Emoções</b>
+          </a>
+        </li>
+        <br>
+        <li>
           <a href="https://github.com/RhuanToneto/ChatBot">
             <b>Chatbot com Flask, Ollama e Llama</b>
           </a>

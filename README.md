@@ -45,6 +45,12 @@
         </li>
         <br>
         <li>
+          <a href="https://github.com/RhuanToneto/ChromiumTabsSaver">
+            <b>Extensão para Salvamento de Abas em Navegadores Chromium</b>
+          </a>
+        </li>
+        <br>
+        <li>
           <a href="https://github.com/RhuanToneto/SteamGameGuess">
             <b>Adivinhe o Jogo pela Sua Descrição na Steam</b>
           </a>
